@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <!-- === style sheet === -->
+    <link rel="stylesheet" type="text/css" href="no2s.css">  
+    </head>
+    <center>
+        <h3>************************************</h3>
+        <h1>GONNA START RUMBLING SOON 💀</h1>
+        <p>How can you dare to say no</p>
+        <body>
+            <img src="erenn.gif" height="300px" width="550px">
+            
+            <h2>The lesson you need to learn right now can’t be taught with words, only with action.</h2>
+            <img src="erenn2.gif" height="300px" width="550px" >
+            <h1>IF YOU DO NOT WANT TO DIE , THINK </h1>
+            <img src="erenn3.gif" height="300px" width="550px">
+            <p>252-143</p>
+            <h3>************************************</h3>
+        </center>
+    </body>
+</html>
